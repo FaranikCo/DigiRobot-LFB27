@@ -35,7 +35,7 @@ void loop()
   delay(1300);
   stopRobot();
   delay(2000);
-  /*Turns the motors in the opposite direction*/
+  /*Turns motors in the opposite direction of each other*/
   moveRobot(Forward, Backward, 94, 94);
   delay(1200);
   stopRobot();
