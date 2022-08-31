@@ -1,6 +1,6 @@
 /*
   LFB27_ReadSensors
-  Reads the output of IR sensors that connected to main board and write results on serial port.
+  Reads the output of IR sensors that are connected to main board and writes results on serial port.
 */
 
 #define S1 10
